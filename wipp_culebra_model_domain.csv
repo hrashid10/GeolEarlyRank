@@ -1,0 +1,5 @@
+name,easting_m,northing_m,notes
+northwest,601700,3597100,model-domain corner from McKenna Hart 2003 Table 1
+northeast,624000,3597100,model-domain corner from McKenna Hart 2003 Table 1
+southwest,601700,3566500,model-domain corner from McKenna Hart 2003 Table 1
+southeast,624000,3566500,model-domain corner from McKenna Hart 2003 Table 1
